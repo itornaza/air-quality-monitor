@@ -46,4 +46,5 @@ After assembling the device, go ahead and connect the arduino board's usb cable 
 
 After configuring the device, find a meaningful indoor location to place it and plug it both to power and your network. You can then monitor eCO2 and TVOCs right from the browser of any device connected on your network by selecting the appropriate url address of the device.
 
+<img src="images/usage.png" width="1000" >
 
