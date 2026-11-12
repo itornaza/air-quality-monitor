@@ -48,3 +48,7 @@ After configuring the device, find a meaningful indoor location to place it and 
 
 <img src="images/usage.png" width="1000" >
 
+## Systems engineering model
+
+A retrospective model-based systems engineering (MBSE) view of this device, built in Capella with the Arcadia method, is in [docs/systems-engineering](docs/systems-engineering/README.md). It covers the operational need, the system boundary and the system functions.
+
