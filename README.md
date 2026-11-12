@@ -50,5 +50,5 @@ After configuring the device, find a meaningful indoor location to place it and 
 
 ## 5. Systems engineering model
 
-A retrospective model-based systems engineering (MBSE) view of this device, built in Capella with the Arcadia method, is in [docs/systems-engineering](docs/README.md). It covers the operational need, the system boundary and the system functions.
+A retrospective model-based systems engineering (MBSE) view of this device, built in Capella with the Arcadia method, is in [docs/README.md](docs/README.md). It covers the operational need, the system boundary and the system functions.
 
