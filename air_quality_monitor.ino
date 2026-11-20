@@ -5,7 +5,7 @@
  * temperature, humidity atmospheric pressure and eCO2 based on the Sparkfun 
  * SEN-14348 CCS811 and BME280 combo sensor.
  *
- * Created by Ioannis Tornazakis ( itornaza@gmail.com ) on 2021-03-28
+ * Created by ion- on 2021-03-28
  * 
  * * Hardware:
  * - Arduino Uno R3

@@ -4,7 +4,7 @@
  * Sparkfun SEN-14348 - SparkFun Environmental Combo Breakout - CCS811/BME280
  * CCS811 component
  *
- * Created by Ioannis Tornazakis ( itornaza@gmail.com ) on 2021-03-28
+ * Created by ion- on 2021-03-28
  * 
  * https://learn.sparkfun.com/tutorials/ccs811bme280-qwiic-environmental-combo-breakout-hookup-guide
  ******************************************************************************/

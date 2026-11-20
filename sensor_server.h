@@ -5,7 +5,7 @@
  * provides http get responses filled with the correspondent sensor data to 
  * http clients.
  *
- * Created by Ioannis Tornazakis ( itornaza@gmail.com ) on 2021-03-13
+ * Created by ion- on 2021-03-13
  * 
  * Version 1.0.1
  * - Added i2c init function

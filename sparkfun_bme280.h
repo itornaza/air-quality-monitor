@@ -4,7 +4,7 @@
  * Sparkfun SEN-14348 - SparkFun Environmental Combo Breakout - CCS811/BME280
  * BME280 component
  *
- * Created by Ioannis Tornazakis ( itornaza@gmail.com ) on 2021-03-28
+ * Created by ion- on 2021-03-28
  ******************************************************************************/
 #ifndef ION_SPARKFUN_BME280_H
 #define ION_SPARKFUN_BME280_H
